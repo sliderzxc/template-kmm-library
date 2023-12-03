@@ -25,7 +25,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.sliderzxc.aurum.android"
+    namespace = "com.template.sample"
     compileSdk = 34
 
     defaultConfig {
